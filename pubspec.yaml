@@ -1,0 +1,16 @@
+name: saymaker
+description: Generate images and video from Dart and Flutter on SayMaker. One API key runs Veo 3.1, Kling 3.0, Seedance 2.0, Nano Banana 2, GPT Image 2.5 and more.
+version: 0.1.0
+homepage: https://saymaker.ai/?utm_source=pub.dev&utm_medium=package
+repository: https://github.com/hanshs474/saymaker-dart
+issue_tracker: https://github.com/hanshs474/saymaker-dart/issues
+topics: [video-generation, image-generation, ai, text-to-video, text-to-image]
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  http: ^1.2.0
+
+dev_dependencies:
+  test: ^1.25.0
